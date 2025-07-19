@@ -20,6 +20,7 @@ In many cases, other software are utilized to aid in the design process, these m
 
 **Installation:**
 Download and install these tools from their official sites or repos.
+Additional scripts to aid in installation can be found in /tools.
 
 **Note:**
 Do not include the source code or built binaries in this repository.
