@@ -3,8 +3,7 @@
 % Date: June 13, 2025
 % ------------
 % Purpose:
-%   Script to setup project for developmental use, may need to run script
-%   at each MATLAB instance. 
+%   Script to setup project for developmental use with matlab.
 
 clear
 clc
