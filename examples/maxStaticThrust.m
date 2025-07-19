@@ -13,7 +13,7 @@ setup
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%% 6x4.5B Propellor %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This analysis uses the maximum rated power of the motor, 111W, to
 % estimate the maximum power driving the propellor. Then static thrust is
-% estimated using cruising conditions (El Paso Summer day. 
+% estimated using cruising conditions (El Paso Summer day)
 
                         % Inputs and constants %
 % Environmental
