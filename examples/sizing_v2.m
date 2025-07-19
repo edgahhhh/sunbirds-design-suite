@@ -2,10 +2,10 @@
 % Author: Edgar Hernandez
 % Date: July 6, 2025
 % ----------------------
-% The purpose of this script is to document the current sizing iteration of
-% the aircraft. The script shall write the sizing results as a .mat file in
-% \results
+% Example script that uses the function WING_SIZING_FOR_STALL that then
+% writes the output as a .mat file in examples/results/
 % ----------------------
+% Script must be run while in sunbirds-design-suite/examples
 
 setup
 
