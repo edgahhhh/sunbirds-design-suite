@@ -1,4 +1,6 @@
 # constraint_analysis_module.py
+# Author: Edgar Hernandez
+# Date: July 19, 2025
 # This module contains different functions for conducting a constraint analysis 
 # for a conceptual aircraft design.
 
