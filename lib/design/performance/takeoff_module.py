@@ -4,7 +4,7 @@
 # This module contains functions relevant to the performance of an aircraft during takeoff.
 # The main purpose is to provide functions to develop CL and CD at some conditions while correcting for ground effect.
 
-# Equations are provided from S. Gudmendson's "Introduction to Aircraft Design" 
+# Equations are provided from S. Gudmundsson's "Introduction to Aircraft Design" 
 
 def lift_correction_factor(CL, wingspan, aspect_ratio, taper_ratio, wing_efficiency, height_agl):
     """
