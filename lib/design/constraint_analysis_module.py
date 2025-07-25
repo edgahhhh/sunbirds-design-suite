@@ -4,7 +4,7 @@
 # This module contains different functions for conducting a constraint analysis 
 # for a conceptual aircraft design.
 
-def TW_desired_stof(density, ground_run, CLmax, CLtof, CDtof, friction_ground, mass=None, gravity=None,
+def TW_desired_tof(density, ground_run, CLmax, CLtof, CDtof, friction_ground, mass=None, gravity=None,
     wing_area=None, wing_loading=None, use_wing_loading=False):
     """
     Calculate the desired thrust-to-weight ratio for takeoff distance.
